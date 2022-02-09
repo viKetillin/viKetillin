@@ -1,7 +1,7 @@
 ## Olá eu sou a Vitória Ketillin, estudante e desenvolvedora web!
 
-## 🚀 Desenvolvedora Full-stack na Uppercase
-## 📚 Estudante de Tecnologia da informação na Univesp
+# 🚀 Desenvolvedora Full-stack na Uppercase
+# 📚 Estudante de Tecnologia da informação na Univesp
 
 <div align="center">
   <a href="https://github.com/viKetillin">
