@@ -3,7 +3,7 @@
 #### 🚀 Desenvolvedora Full-stack na Uppercase
 #### 📚 Estudante de Tecnologia da informação na Univesp
 
-<div align="center">
+<div align="center" style="margin-top:12px">
   <a href="https://github.com/viKetillin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viKetillin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viKetillin&layout=compact&langs_count=7&theme=dracula"/>
