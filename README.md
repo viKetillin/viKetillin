@@ -1,6 +1,6 @@
 ## Olá eu sou a Vitória Ketillin, estudante e desenvolvedora web!
 
-#### 🚀 Desenvolvedora Full-stack na Uppercase
+#### 🚀 Desenvolvedora Frontend na Finch
 #### 📚 Estudante de Tecnologia da informação na Univesp
 <br/>
 <div align="center">
